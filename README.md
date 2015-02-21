@@ -7,4 +7,4 @@ Feature
 -
 **Enhanced Sustainability**
 -Both Milling/Printing available for manufacturing parts  
-Noise Killing + Precise Printing Ability
+**Noise Killing + Precise Printing Ability**
