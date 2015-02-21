@@ -1,5 +1,6 @@
 # SPROUT
 Reprap-Styled 3D Printer
+![SPROUT](https://github.com/cheon7886/SPROUT/blob/master/Rendering_Image.jpg)  
 Designed for Replicate printer itself
 Exclude some parts(Aluminium Profile, Motor, Circuit), most of parts can be 3D Printed.
 
