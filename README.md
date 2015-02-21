@@ -6,5 +6,5 @@ Exclude some parts(Aluminium Profile, Motor, Circuit), most of parts can be 3D P
 Feature
 -
 **Enhanced Sustainability**
--Both Milling/Printing available for manufacturing parts
+-Both Milling/Printing available for manufacturing parts  
 Noise Killing + Precise Printing Ability
