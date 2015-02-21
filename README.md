@@ -2,7 +2,7 @@
 Reprap-Styled 3D Printer
 ![SPROUT](https://github.com/cheon7886/SPROUT/blob/master/Rendering_Image.jpg)  
 Designed for Replicate printer itself
-Exclude some parts(Aluminium Profile, Motor, Circuit), most of parts can be 3D Printed.
+Exclude some parts(Aluminium Profile, Motor, Circuit), most of parts can be 3D Printed.   
 In order to everyone can contribute, I put original CAD file(solidworks) and IGES file with STL file.
 Feature
 -
@@ -18,3 +18,5 @@ By using axis guides, you can block issues when building printer, from using two
 **Noise Killing + Precise Printing Ability**
 License
 -
+You can use this files under CCL ShareAlike 3.0 license.
+![License](http://cfile1.uf.tistory.com/image/2434FE4A5360AF852D07FA)
