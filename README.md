@@ -3,7 +3,7 @@ Reprap-Styled 3D Printer
 ![SPROUT](https://github.com/cheon7886/SPROUT/blob/master/Rendering_Image.jpg)  
 Designed for Replicate printer itself
 Exclude some parts(Aluminium Profile, Motor, Circuit), most of parts can be 3D Printed.
-
+In order to everyone can contribute, I put original CAD file(solidworks) and IGES file with STL file.
 Feature
 -
 **Enhanced Sustainability**
@@ -16,3 +16,5 @@ You can use Threaded rod with nut as others, but this design allow you to easily
 -Z Axis Bearing Guide   
 By using axis guides, you can block issues when building printer, from using two rods.  
 **Noise Killing + Precise Printing Ability**
+License
+-
