@@ -1,2 +1,0 @@
-Bearing Supporter <-> Profile == 75mm
-Shaft Supporter <-> Profile == 0, 4mm
